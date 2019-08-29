@@ -1,0 +1,2 @@
+# PassiveMode
+A stoneserver plugin

@@ -1,0 +1,18 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "Passive plugin",
+    "description": "by Fjun",
+    "uuid": "b3bc45e0-41b0-469f-85f0-07c0022b746d",
+    "version": [0, 0, 0],
+    "min_engine_version": [1, 12, 0]
+  },
+  "modules": [
+    {
+      "description": "data",
+      "type": "data",
+      "uuid": "cb9b651c-5c5f-4175-93c2-aedf15af933d",
+      "version": [0, 0, 0]
+    }
+  ]
+}
